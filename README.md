@@ -1,6 +1,3 @@
-Great, Chirag 👍
-Here is a **more professional GitHub-style README.md** with **badges, installation steps, project structure, and usage instructions**. This looks much better for **college projects or GitHub portfolios**.
-
 ---
 
 # 🩺 General Health Predictor
